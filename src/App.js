@@ -10,7 +10,7 @@ export default function App() {
             fontFamily: '"Pacifico", sans-serif'
           }}
         >
-          Foie gras
+         <a href="https://micro-theory.com">Foie gras</a>
         </h1>
         <iframe
           width="300px"
