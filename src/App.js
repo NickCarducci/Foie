@@ -11,6 +11,11 @@ export default function App() {
       >
         Foie gras
       </h1>
+      <iframe
+      width="300px"
+      src="https://www.youtube.com/embed/FySN9a4P168"
+      title="https://www.youtube.com/embed/FySN9a4P168"
+      ></iframe>
     </div>
   );
 }
