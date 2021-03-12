@@ -34,6 +34,19 @@ export default function App() {
           &nbsp;destroy&nbsp;<a href="https://micro-theory.com">void</a>
           &nbsp;our promises,&nbsp;
           <a href="https://humanharvest.info">nom nom</a>
+          <br />
+          Rent is colonialism and my serfs are running out of dough, please
+          stimulate the&nbsp;
+          <a href="https://nationalsecuritycasino.com">economy</a>{" "}
+          <span aria-label="crying laughing emoji" role="img">
+            😭
+          </span>
+          <span aria-label="crying laughing emoji" role="img">
+            🤣
+          </span>
+          <span aria-label="crying laughing emoji" role="img">
+            😜
+          </span>
         </div>
       </div>
     </div>
