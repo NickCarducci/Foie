@@ -32,7 +32,8 @@ export default function App() {
           <a href="https://saverparty.xyz">their</a>&nbsp;equity, and do not let
           the&nbsp;<a href="https://nickcarducci2022.com">Senate</a>
           &nbsp;destroy&nbsp;<a href="https://micro-theory.com">void</a>
-          &nbsp;our promises&nbsp;
+          &nbsp;our promises,&nbsp;
+          <a href="https://humanharvest.info">nom nom</a>
         </div>
       </div>
     </div>
