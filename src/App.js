@@ -19,7 +19,7 @@ export default function App() {
         ></iframe>
         <div
           style={{
-            display: "flex",
+            backgroundColor: "rgba(5,5,5,.3)",
             position: "fixed",
             bottom: "0px",
             right: "0px",
@@ -27,9 +27,12 @@ export default function App() {
             height: "min-content"
           }}
         >
-          Please help ouur consumers get what we lent them, destroy the&nbsp;
-          <a href="https://saverparty.xyz">Saver Party</a>'s&nbsp;equity
-          do not let the&nbsp;<a href="https://nickcarducci2022.com">Senate</a>&nbsp;destroy&nbsp;<a href="https://micro-theory.com">void</a>&nbsp;our promises
+          Please help ouur consumers get what we lent them and keep them in
+          perpetual poverty by destroying&nbsp;
+          <a href="https://saverparty.xyz">their</a>&nbsp;equity, and do not let
+          the&nbsp;<a href="https://nickcarducci2022.com">Senate</a>
+          &nbsp;destroy&nbsp;<a href="https://micro-theory.com">void</a>
+          &nbsp;our promises&nbsp;
         </div>
       </div>
     </div>
