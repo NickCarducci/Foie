@@ -29,14 +29,23 @@ export default function App() {
         >
           Please help ouur consumers get what we lent them and keep them in
           perpetual poverty by destroying&nbsp;
-          <a href="https://saverparty.xyz">their</a>&nbsp;equity, and do not let
-          the&nbsp;<a href="https://nickcarducci2022.com">Senate</a>
+          <a href="https://saverparty.xyz">their</a>&nbsp;equity (like fighting
+          fire with fire), and do not let the&nbsp;
+          <a href="https://nickcarducci2022.com">Senate</a>
           &nbsp;destroy&nbsp;<a href="https://micro-theory.com">void</a>
           &nbsp;our promises,&nbsp;
           <a href="https://humanharvest.info">nom nom</a>
           <br />
-          Rent is colonialism and my serfs are running out of dough, please
-          stimulate the&nbsp;
+          Rent-seeking/<a href="https://facebook.com/nick.carducci">build</a>
+          -to-
+          <a href="https://en.wikipedia.org/wiki/Under-occupied_developments_in_China">
+            rent
+          </a>{" "}
+          is colonialism, keeps homeless count high,&nbsp;
+          <a href="https://www.investopedia.com/terms/p/priceelasticity.asp">
+            homes out of reach
+          </a>
+          , and my serfs are running out of dough, please stimulate the&nbsp;
           <a href="https://nationalsecuritycasino.com">economy</a>{" "}
           <span aria-label="crying laughing emoji" role="img">
             😭
@@ -47,6 +56,7 @@ export default function App() {
           <span aria-label="crying laughing emoji" role="img">
             😜
           </span>
+          <br />
         </div>
       </div>
     </div>
