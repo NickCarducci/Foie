@@ -36,7 +36,11 @@ export default function App() {
           Please help ouur consumers get what we lent them and keep them in
           perpetual poverty by destroying&nbsp;
           <a href="https://saverparty.xyz">their</a>&nbsp;equity (like fighting
-          fire with fire), and do not let the&nbsp;
+          fire with&nbsp;
+          <a href="https://www.tradingtechnologies.com/xtrader-help/x-study/technical-indicator-definitions/volume-on-the-bid-and-ask-bavol/">
+            fire
+          </a>
+          ), and do not let the&nbsp;
           <a href="https://nickcarducci2022.com">Senate</a>
           &nbsp;destroy&nbsp;<a href="https://micro-theory.com">void</a>
           &nbsp;our promises,&nbsp;
