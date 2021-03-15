@@ -1,17 +1,6 @@
 * {
   margin: 0;
 }
-
-.App {
-  display: flex;
-  position: fixed;
-  width: 100%;
-  height: 100%;
-  background-color: rgb(218, 198, 90);
-  /*font-family: sans-serif;
-  text-align: center;*/
-  justify-content: center;
-  align-items: center;
-  overflow-x: hidden;
-  overflow-y: hidden;
+html {
+  background-color: rgb(150, 200, 255);
 }
