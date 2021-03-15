@@ -2,28 +2,34 @@ import "./styles.css";
 
 export default function App() {
   return (
-    <div className="App">
-      <div style={{ width: "100%", maxWidth: "600px", textAlign: "center" }}>
-        <h1
-          style={{
-            color: "rgb(200, 100, 100)",
-            fontFamily: '"Pacifico", sans-serif'
-          }}
-        >
-          <a href="https://micro-theory.com">Foie gras</a>
-        </h1>
-        <iframe
-          width="300px"
-          src="https://www.youtube.com/embed/FySN9a4P168"
-          title="https://www.youtube.com/embed/FySN9a4P168"
-        ></iframe>
+    <div
+      style={{
+        position: "absolute",
+        width: "100%",
+        height: "min-content",
+        backgroundColor: "rgb(218, 198, 90)",
+        textAlign: "left"
+      }}
+    >
+      <div
+        style={{
+          zIndex: 1,
+          overflowY: "auto",
+          overflowX: "hidden",
+          backgroundColor: "rgba(5,5,5,.)",
+          position: "fixed",
+          bottom: "0px",
+          right: "0px",
+          width: "200px",
+          maxWidth: "100%",
+          maxHeight: "100%",
+          height: "600px"
+        }}
+      >
         <div
           style={{
-            backgroundColor: "rgba(5,5,5,.3)",
-            position: "fixed",
-            bottom: "0px",
-            right: "0px",
-            width: "min-content",
+            position: "absolute",
+            width: "100%",
             height: "min-content"
           }}
         >
@@ -57,7 +63,45 @@ export default function App() {
             😜
           </span>
           <br />
+          Don't let them&nbsp;
+          <a href="https://humanharvest.info">onto the cost</a>&nbsp;of
+          splitting their equity to help the&nbsp;
+          <a href="https://www.tradingtechnologies.com/xtrader-help/x-study/technical-indicator-definitions/volume-on-the-bid-and-ask-bavol/">
+            ask
+          </a>{" "}
+          <br />
+          <br />
+          "Remember. if most renters can't pay their rent, landlords can't pay
+          their mortgage!" cries&nbsp;
+          <a href="https://en.wikipedia.org/wiki/Dominic_Carter">
+            Domenic Carter
+          </a>
+          &nbsp;for the financial industry
+          <br />
         </div>
+      </div>
+      <div
+        style={{
+          position: "relative",
+          width: "90%",
+          maxWidth: "600px",
+          textAlign: "left",
+          left: "5%"
+        }}
+      >
+        <h1
+          style={{
+            color: "rgb(200, 100, 100)",
+            fontFamily: '"Pacifico", sans-serif'
+          }}
+        >
+          <a href="https://micro-theory.com">Foie gras</a>
+        </h1>
+        <iframe
+          width="300px"
+          src="https://www.youtube.com/embed/FySN9a4P168"
+          title="https://www.youtube.com/embed/FySN9a4P168"
+        ></iframe>
       </div>
     </div>
   );
