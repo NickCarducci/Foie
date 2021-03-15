@@ -16,14 +16,14 @@ export default function App() {
           zIndex: 1,
           overflowY: "auto",
           overflowX: "hidden",
-          backgroundColor: "rgba(5,5,5,.)",
+          backgroundColor: "rgba(5,5,5,.4)",
           position: "fixed",
           bottom: "0px",
           right: "0px",
           width: "200px",
           maxWidth: "100%",
           maxHeight: "100%",
-          height: "600px"
+          height: "450px"
         }}
       >
         <div
@@ -71,8 +71,18 @@ export default function App() {
           </a>{" "}
           <br />
           <br />
-          "Remember. if most renters can't pay their rent, landlords can't pay
-          their mortgage!" cries&nbsp;
+          Intention, duress, comparative law, opportunity, not informing, all
+          are the fault of bank&nbsp;
+          <a href="https://www.ftc.gov/tips-advice/competition-guidance/guide-antitrust-laws/antitrust-laws">
+            collusion
+          </a>
+          .
+          <br />
+          "Remember. if most renters can't pay their rent,&nbsp;
+          <a href="https://www.zippia.com/landlord-jobs/demographics/">
+            landlords
+          </a>
+          &nbsp;can't pay their mortgage!" cries&nbsp;
           <a href="https://en.wikipedia.org/wiki/Dominic_Carter">
             Domenic Carter
           </a>
