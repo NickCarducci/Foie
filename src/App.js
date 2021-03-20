@@ -161,11 +161,14 @@ export default function App() {
           src="https://www.youtube.com/embed/FySN9a4P168"
           title="https://www.youtube.com/embed/FySN9a4P168"
         ></iframe>
-      </div>
+      </div>{" "}
       <div
         style={{
-          width: "240px",
-          position: "relative"
+          position: "relative",
+          width: "30%",
+          maxWidth: "600px",
+          textAlign: "left",
+          paddingLeft: "5%"
         }}
       >
         <a href="https://vianickcarducci.medium.com/i-thought-it-was-g-d-e5238f55046b">
@@ -178,6 +181,10 @@ export default function App() {
             src="https://www.dl.dropboxusercontent.com/s/pkkxluuwmqsqytk/original_151838600.png?dl=0"
           />
         </a>
+        playing G-d, protecting {">"}5% ownership for hedge funds to be under
+        differing regulations in 13d every quarter, with disregard for ability
+        to match hedge-fund&nbsp;<b>on-exchange transparency</b>&nbsp;or&nbsp;
+        <b>full-brokerage</b>&nbsp;anonymity
       </div>
     </div>
   );
