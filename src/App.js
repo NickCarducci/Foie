@@ -184,7 +184,7 @@ export default function App() {
           paddingLeft: "5%"
         }}
       >
-        <a href="https://vianickcarducci.medium.com/i-thought-it-was-g-d-e5238f55046b">
+        <a href="https://vianickcarducci.medium.com/dislocation-of-yester-worker-762a57900e71">
           <img
             alt=""
             style={{
