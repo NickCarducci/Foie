@@ -33,6 +33,23 @@ export default function App() {
             height: "min-content"
           }}
         >
+          <div
+            style={{
+              width: "240px",
+              position: "relative"
+            }}
+          >
+            <a href="https://vianickcarducci.medium.com/i-thought-it-was-g-d-e5238f55046b">
+              <img
+                alt=""
+                style={{
+                  width: "100%",
+                  height: "auto"
+                }}
+                src="https://www.dl.dropboxusercontent.com/s/r2ndd7gxi6abvzo/pngkin.com_god-png_294308.png?dl=0"
+              />
+            </a>
+          </div>{" "}
           <a
             style={{
               padding: "7px",
