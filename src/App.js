@@ -7,7 +7,6 @@ export default function App() {
         position: "absolute",
         width: "100%",
         height: "min-content",
-        backgroundColor: "rgb(218, 198, 90)",
         textAlign: "left"
       }}
     >
@@ -141,11 +140,12 @@ export default function App() {
       </div>
       <div
         style={{
+          backgroundColor: "rgb(218, 198, 90)",
           position: "relative",
           width: "90%",
           maxWidth: "600px",
           textAlign: "left",
-          left: "5%"
+          paddingLeft: "5%"
         }}
       >
         <h1
@@ -161,6 +161,23 @@ export default function App() {
           src="https://www.youtube.com/embed/FySN9a4P168"
           title="https://www.youtube.com/embed/FySN9a4P168"
         ></iframe>
+      </div>
+      <div
+        style={{
+          width: "240px",
+          position: "relative"
+        }}
+      >
+        <a href="https://vianickcarducci.medium.com/i-thought-it-was-g-d-e5238f55046b">
+          <img
+            alt=""
+            style={{
+              width: "100%",
+              height: "auto"
+            }}
+            src="https://www.dl.dropboxusercontent.com/s/pkkxluuwmqsqytk/original_151838600.png?dl=0"
+          />
+        </a>
       </div>
     </div>
   );
