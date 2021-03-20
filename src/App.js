@@ -154,7 +154,20 @@ export default function App() {
             fontFamily: '"Pacifico", sans-serif'
           }}
         >
-          <a href="https://micro-theory.com">Foie gras</a>
+          <a href="https://micro-theory.com">Foie gras</a>&nbsp;
+          <a
+            style={{ padding: "2px", width: "23px", display: "inline-block" }}
+            href="https://saverparty.xyz"
+          >
+            <img
+              alt=""
+              style={{
+                width: "100%",
+                height: "auto"
+              }}
+              src="https://www.dl.dropboxusercontent.com/s/oi43wpcc0h9phcz/saverAcorn%20%281%29.png?dl=0"
+            />
+          </a>
         </h1>
         <iframe
           width="300px"
