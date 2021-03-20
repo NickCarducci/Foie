@@ -50,18 +50,33 @@ export default function App() {
               />
             </a>
           </div>{" "}
-          <a
-            style={{
-              padding: "7px",
-              lineHeight: "2",
-              width: "100%",
-              backgroundColor: "black",
-              color: "white"
-            }}
-            href="https://vianickcarducci.medium.com/raising-money-without-dilution-or-debt-a4cb20164356"
-          >
-            Black Hole
-          </a>
+          <span>
+            <a
+              style={{
+                padding: "7px",
+                lineHeight: "2",
+                width: "100%",
+                backgroundColor: "black",
+                color: "white"
+              }}
+              href="https://vianickcarducci.medium.com/raising-money-without-dilution-or-debt-a4cb20164356"
+            >
+              Black Hole
+            </a>
+            <a
+              style={{ padding: "2px", width: "23px", display: "inline-block" }}
+              href="https://vianickcarducci.medium.com/vaults-biz-solution-repair-shop-25d91ee37aea"
+            >
+              <img
+                alt=""
+                style={{
+                  width: "100%",
+                  height: "auto"
+                }}
+                src="https://www.dl.dropboxusercontent.com/s/y2nws5vjjlj7mws/vaultslogo--1-.png?dl=0"
+              />
+            </a>
+          </span>
           <br />
           Please help ouur consumers get what we lent them and keep them in
           perpetual poverty by destroying&nbsp;
