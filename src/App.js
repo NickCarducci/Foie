@@ -33,6 +33,19 @@ export default function App() {
             height: "min-content"
           }}
         >
+          <a
+            style={{
+              padding: "7px",
+              lineHeight: "2",
+              width: "100%",
+              backgroundColor: "black",
+              color: "white"
+            }}
+            href="https://vianickcarducci.medium.com/raising-money-without-dilution-or-debt-a4cb20164356"
+          >
+            Black Hole
+          </a>
+          <br />
           Please help ouur consumers get what we lent them and keep them in
           perpetual poverty by destroying&nbsp;
           <a href="https://saverparty.xyz">their</a>&nbsp;equity (like fighting
