@@ -168,6 +168,25 @@ export default function App() {
               src="https://www.dl.dropboxusercontent.com/s/oi43wpcc0h9phcz/saverAcorn%20%281%29.png?dl=0"
             />
           </a>
+          <a
+            style={{ padding: "2px", width: "43px", display: "inline-block" }}
+            href="https://saverparty.xyz"
+          >
+            <img
+              alt=""
+              style={{
+                width: "100%",
+                height: "auto"
+              }}
+              src="https://www.dl.dropboxusercontent.com/s/aeqwfuseetgcjp5/MonopsonyAidAsk.jpeg?dl=0"
+            />
+          </a>{" "}
+          <a
+            href="https://squatcommune.com"
+            style={{ color: "rgb(200, 100, 100)", fontSize: "12px" }}
+          >
+            MonopsonyAidAskNotDefense
+          </a>
         </h1>
         <iframe
           width="300px"
