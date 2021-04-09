@@ -135,14 +135,6 @@ export default function App() {
             Domenic Carter
           </a>
           &nbsp;for the financial industry
-          <br />
-          <br />
-          "If you don't work like everyone else, you can't expect to have the
-          same things," says Domenic Carter.7nbsp;
-          <a href="https://www.barnesandnoble.com/w/black-slaveowners-larry-koger/1101755847">
-            44x bond:cash aren't work
-          </a>
-          .
         </div>
       </div>
       <div
@@ -224,6 +216,65 @@ export default function App() {
         differing regulations in 13d every quarter, with disregard for ability
         to match hedge-fund&nbsp;<b>on-exchange transparency</b>&nbsp;or&nbsp;
         <b>full-brokerage</b>&nbsp;anonymity
+        <br />
+        <br />
+        "If you don't work like everyone else, you can't expect to have the same
+        things," says Domenic Carter.&nbsp;
+        <a href="https://www.barnesandnoble.com/w/black-slaveowners-larry-koger/1101755847">
+          44x bond:cash aren't work
+        </a>
+        .
+        <br />
+        <br />
+        We are getting scammed, to pay up enough; it is not getting our money
+        back it is only a&nbsp;
+        <a href="https://residualsplit.us">residualsplit.us</a>
+        <br />
+        <br />
+        Jesus was supposed to return Israelites to Israel, not Churchill
+        @JCats2013 moldmask.co, cocaine is money, purity health dpt @SaverParty
+        · Dec 1, 2020 Land would trade well to any race without crowding out
+        with mortgages and hoard-to-rent
+        <br />
+        <br />
+        Sunrise Movement Sunrise @sunrisemvmt · Nov 24, 2020 The Secretary of
+        the Interior oversees the management and conservation of federal lands.
+        Who better to head the department than Rep. Deb Haaland, the first
+        Indigenous woman elected to Congress?
+        <br />
+        <br />
+        moldmask.co, cocaine is money, purity health dpt · Nov 24, 2020 Our
+        currency may one day be absolutely divisible (& randomized) public land
+        deeds
+        <br />
+        <br />
+        I could do the same build of a house at a different price if: 1) I
+        didn't also have a bet beyond escrow from a predator I buy under duress
+        beyond possibility or 2) it wasn't made to scalp the land in taxes or
+        rent and I could buy the land and build it myself literally or by trade
+        <br />
+        <br />
+        if votes to steal/inundate pareto-efficient (non-profit year-to-year)
+        business were per your own means and for your own needs, it may be per
+        land and cities wouldn't be hellscapes
+        <br />
+        <br />
+        NRIA advertises 10% income by squatting on land and renting it out. Is
+        that productive except at an economic scale? Old people are retarded,
+        they harm themselves @sec
+        <br />
+        <br />
+        Producers say to rentier you are not one of us, we compete with
+        eachother for customers, we don’t take the land or air above it to not
+        use it or flip and settle or supply is not practically constrained to
+        charge rent (if copyright is not too broad, but well-managed...)
+        <br />
+        <br />
+        What does being pro-American mean to you? (Land, Justice, Injustice)
+        <br />
+        <br />
+        I'm so woke conservatives wanting jobs from usurped land and bid is
+        communism to me #Keystone
       </div>
     </div>
   );
