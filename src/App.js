@@ -136,6 +136,13 @@ export default function App() {
           </a>
           &nbsp;for the financial industry
           <br />
+          <br />
+          "If you don't work like everyone else, you can't expect to have the
+          same things," says Domenic Carter.7nbsp;
+          <a href="https://www.barnesandnoble.com/w/black-slaveowners-larry-koger/1101755847">
+            44x bond:cash aren't work
+          </a>
+          .
         </div>
       </div>
       <div
