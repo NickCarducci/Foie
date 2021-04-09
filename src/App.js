@@ -218,6 +218,13 @@ export default function App() {
         <b>full-brokerage</b>&nbsp;anonymity
         <br />
         <br />
+        “Who made the shoes” - Brian kilmeade
+        <br />
+        <br />
+        trueVelocity is 1.2, which is likely 96% stagnant bond funds + 44
+        universes
+        <br />
+        <br />
         "If you don't work like everyone else, you can't expect to have the same
         things," says Domenic Carter.&nbsp;
         <a href="https://www.barnesandnoble.com/w/black-slaveowners-larry-koger/1101755847">
