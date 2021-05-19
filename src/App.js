@@ -253,6 +253,16 @@ export default function App() {
         <br />
         trueVelocity is 1.2, which is likely 96% stagnant bond funds + 44
         universes
+        <div style={{ padding: "2px", width: "23px", display: "inline-block" }}>
+          <img
+            alt=""
+            style={{
+              width: "100%",
+              height: "auto"
+            }}
+            src="https://www.dl.dropboxusercontent.com/s/vqnzzdwkpl9vzrw/Screen%20Shot%202021-05-19%20at%203.47.29%20PM.png?dl=0"
+          />
+        </div>
         <br />
         <br />
         "If you don't work like everyone else, you can't expect to have the same
