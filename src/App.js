@@ -62,19 +62,6 @@ export default function App() {
             >
               Black Hole
             </a>
-            <a
-              style={{ padding: "2px", width: "23px", display: "inline-block" }}
-              href="https://vianickcarducci.medium.com/vaults-biz-solution-repair-shop-25d91ee37aea"
-            >
-              <img
-                alt=""
-                style={{
-                  width: "100%",
-                  height: "auto"
-                }}
-                src="https://www.dl.dropboxusercontent.com/s/y2nws5vjjlj7mws/vaultslogo--1-.png?dl=0"
-              />
-            </a>
           </span>
           <br />
           Please help ouur consumers get what we lent them and keep them in
@@ -212,6 +199,12 @@ export default function App() {
             src="https://www.dl.dropboxusercontent.com/s/pkkxluuwmqsqytk/original_151838600.png?dl=0"
           />
         </a>
+        playing G-d (price-elasticity, oneness, not usuring-assets with
+        deductible duress), protecting {">"}5% ownership for hedge funds to be
+        under differing regulations in 13d every quarter, with disregard for
+        ability to match hedge-fund&nbsp;<b>on-exchange transparency</b>
+        &nbsp;or&nbsp;
+        <b>full-brokerage</b>&nbsp;anonymity
         <a href="https://vianickcarducci.medium.com/dislocation-of-yester-worker-762a57900e71">
           <img
             alt=""
@@ -222,10 +215,37 @@ export default function App() {
             src="https://www.dl.dropboxusercontent.com/s/fb8309a3i84ey9h/Screen%20Shot%202021-05-19%20at%203.29.16%20PM.png?dl=0"
           />
         </a>
-        playing G-d, protecting {">"}5% ownership for hedge funds to be under
-        differing regulations in 13d every quarter, with disregard for ability
-        to match hedge-fund&nbsp;<b>on-exchange transparency</b>&nbsp;or&nbsp;
-        <b>full-brokerage</b>&nbsp;anonymity
+        <div style={{ padding: "2px", width: "23px", display: "inline-block" }}>
+          <img
+            alt=""
+            style={{
+              width: "100%",
+              height: "auto"
+            }}
+            src="https://www.dl.dropboxusercontent.com/s/y2nws5vjjlj7mws/vaultslogo--1-.png?dl=0"
+          />
+        </div>
+        This chart always throws me into a panic attack when I think about it &
+        forget that until I see that it is already based on employees, not
+        population @paulkrugman
+        <br /> https://fred.stlouisfed.org/graph/?g=E8fm
+        <br /> indexing home-prices is very significant to where you put the 100
+        mark (unit), here is 1990, the middle of home-price-inflation
+        exponential, consistent gain over cpi #inflation #CostOfLiving
+        <br />
+        Population cancels out when you cross multiply home-prices/population
+        and hours-worked by those employed/population for
+        inverse-home-price/hours-worked
+        <div style={{ padding: "2px", width: "23px", display: "inline-block" }}>
+          <img
+            alt=""
+            style={{
+              width: "100%",
+              height: "auto"
+            }}
+            src="https://www.dl.dropboxusercontent.com/s/k3b8jte4paplmwa/fred%20HUD%201990%20index%20inflation%20cost%20of%20living.jpeg?dl=0"
+          />
+        </div>
         <br />
         <br />
         “Who made the shoes” - Brian kilmeade
