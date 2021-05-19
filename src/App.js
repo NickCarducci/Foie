@@ -212,6 +212,16 @@ export default function App() {
             src="https://www.dl.dropboxusercontent.com/s/pkkxluuwmqsqytk/original_151838600.png?dl=0"
           />
         </a>
+        <a href="https://vianickcarducci.medium.com/dislocation-of-yester-worker-762a57900e71">
+          <img
+            alt=""
+            style={{
+              width: "100%",
+              height: "auto"
+            }}
+            src="https://www.dl.dropboxusercontent.com/s/fb8309a3i84ey9h/Screen%20Shot%202021-05-19%20at%203.29.16%20PM.png?dl=0"
+          />
+        </a>
         playing G-d, protecting {">"}5% ownership for hedge funds to be under
         differing regulations in 13d every quarter, with disregard for ability
         to match hedge-fund&nbsp;<b>on-exchange transparency</b>&nbsp;or&nbsp;
