@@ -174,11 +174,25 @@ export default function App() {
             MonopsonyAidAskNotDefense
           </a>
         </h1>
-        <iframe
-          width="300px"
-          src="https://www.youtube.com/embed/FySN9a4P168"
-          title="https://www.youtube.com/embed/FySN9a4P168"
-        ></iframe>
+        <div
+          style={{
+            height: "min-content"
+          }}
+        >
+          <iframe
+            style={{
+              shapeOutside: "rect()",
+              float: "left",
+              width: "300px"
+            }}
+            src="https://www.youtube.com/embed/FySN9a4P168"
+            title="https://www.youtube.com/embed/FySN9a4P168"
+          ></iframe>
+          medicare for all is just lower deductible for higher premium, it is
+          not a bargain concurrentable, non-expiring the right uses this
+          "monthly-savings" tactic, too insurance savings relatively =but not
+          absolutely Settle-up, doc
+        </div>
       </div>{" "}
       <div
         style={{
@@ -201,6 +215,7 @@ export default function App() {
         marginal-propensity of usefullness of always hours measured in output or
         productivity, one of the greatest faults that I have found in American
         Economics at JHU and independently, in-seratim)
+        <br />
         <a href="https://vianickcarducci.medium.com/dislocation-of-yester-worker-762a57900e71">
           <img
             alt=""
