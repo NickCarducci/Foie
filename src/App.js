@@ -189,6 +189,7 @@ export default function App() {
           paddingLeft: "5%"
         }}
       >
+        <h2>price-inelasticity by individual-write-ups</h2>
         <a href="https://vianickcarducci.medium.com/dislocation-of-yester-worker-762a57900e71">
           <img
             alt=""
