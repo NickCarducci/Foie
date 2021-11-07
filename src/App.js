@@ -190,6 +190,17 @@ export default function App() {
         }}
       >
         <h2>price-inelasticity by individual-write-ups</h2>
+        non-concurrentable, gdp:down-payments 11/1 concurrency, Schumer affirms
+        11/2021 that medicare for all is not invoices are theft, but is lower
+        deductibles for higher premiums, currency? non-expiring (without
+        compounding fees, but realized losses for static assets, rightly so.
+        labor describes capital more accurately than the
+        self-described-"capitalists," scholars that know the
+        misnomenclative-prevalence dismay predoliction to pro-test boast for
+        capitalism, within reason prescribed by supply and demand
+        marginal-propensity of usefullness of always hours measured in output or
+        productivity, one of the greatest faults that I have found in American
+        Economics at JHU and independently, in-seratim)
         <a href="https://vianickcarducci.medium.com/dislocation-of-yester-worker-762a57900e71">
           <img
             alt=""
