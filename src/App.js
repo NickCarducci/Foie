@@ -4,6 +4,7 @@ export default function App() {
   return (
     <div
       style={{
+        fontFamily: "'Padauk', sans-serif",
         position: "absolute",
         width: "100%",
         height: "min-content",
@@ -155,7 +156,19 @@ export default function App() {
             />
           </a>
           <a
-            style={{ padding: "2px", width: "43px", display: "inline-block" }}
+            href="https://squatcommune.com"
+            style={{ color: "rgb(200, 100, 100)", fontSize: "12px" }}
+          >
+            MonopsonyAidAskNotDefense
+          </a>
+          <a
+            style={{
+              padding: "2px",
+              width: "200px",
+              shapeOutside: "rect()",
+
+              float: "right"
+            }}
             href="https://saverparty.xyz"
           >
             <img
@@ -166,19 +179,9 @@ export default function App() {
               }}
               src="https://www.dl.dropboxusercontent.com/s/aeqwfuseetgcjp5/MonopsonyAidAsk.jpeg?dl=0"
             />
-          </a>{" "}
-          <a
-            href="https://squatcommune.com"
-            style={{ color: "rgb(200, 100, 100)", fontSize: "12px" }}
-          >
-            MonopsonyAidAskNotDefense
           </a>
         </h1>
-        <div
-          style={{
-            height: "min-content"
-          }}
-        >
+        <div style={{ textAlign: "right", height: "min-content" }}>
           <iframe
             style={{
               shapeOutside: "rect()",
@@ -193,11 +196,11 @@ export default function App() {
           "monthly-savings" tactic, too insurance savings relatively =but not
           absolutely Settle-up, doc
         </div>
-      </div>{" "}
+      </div>
       <div
         style={{
           position: "relative",
-          width: "30%",
+          width: "70%",
           maxWidth: "600px",
           textAlign: "left",
           paddingLeft: "5%"
@@ -263,16 +266,15 @@ export default function App() {
         Population cancels out when you cross multiply home-prices/population
         and hours-worked by those employed/population for
         inverse-home-price/hours-worked
-        <div style={{ padding: "2px", width: "23px", display: "inline-block" }}>
-          <img
-            alt=""
-            style={{
-              width: "100%",
-              height: "auto"
-            }}
-            src="https://www.dl.dropboxusercontent.com/s/k3b8jte4paplmwa/fred%20HUD%201990%20index%20inflation%20cost%20of%20living.jpeg?dl=0"
-          />
-        </div>
+        <img
+          alt=""
+          style={{
+            shapeOutside: "rect()",
+            float: "left",
+            width: "300px"
+          }}
+          src="https://www.dl.dropboxusercontent.com/s/k3b8jte4paplmwa/fred%20HUD%201990%20index%20inflation%20cost%20of%20living.jpeg?dl=0"
+        />
         <br />
         <br />
         “Who made the shoes” - Brian kilmeade
@@ -280,16 +282,15 @@ export default function App() {
         <br />
         trueVelocity is 1.2, which is likely 96% stagnant bond funds + 44
         universes
-        <div style={{ padding: "2px", width: "23px", display: "inline-block" }}>
-          <img
-            alt=""
-            style={{
-              width: "100%",
-              height: "auto"
-            }}
-            src="https://www.dl.dropboxusercontent.com/s/vqnzzdwkpl9vzrw/Screen%20Shot%202021-05-19%20at%203.47.29%20PM.png?dl=0"
-          />
-        </div>
+        <img
+          alt=""
+          style={{
+            shapeOutside: "rect()",
+            float: "left",
+            width: "300px"
+          }}
+          src="https://www.dl.dropboxusercontent.com/s/vqnzzdwkpl9vzrw/Screen%20Shot%202021-05-19%20at%203.47.29%20PM.png?dl=0"
+        />
         <br />
         <br />
         "If you don't work like everyone else, you can't expect to have the same
